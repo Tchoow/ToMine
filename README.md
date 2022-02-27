@@ -1,3 +1,5 @@
+(Ne sera plus mis à jour.)
+
 # ToMine
 Un mineur de cryptomonnaie adapté à votre configuration pour un rendement optimal !
 
